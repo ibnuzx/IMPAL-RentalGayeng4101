@@ -1,0 +1,38 @@
+
+.info-panel {
+    
+}
+
+.workingspace img {
+    width: 220x;
+    height: 500px;
+    padding-left: 100px;
+ 
+}
+
+.info-panel button {
+   
+    padding-top: 100px;
+    padding-left: 200px;
+}
+
+.workingspace {
+    margin-top: 50px;
+    text-align: center;
+}
+
+.workingspace button{
+    margin-top: 50px;
+}
+
+.tombol{
+    text-transform: uppercase;
+    border-radius: 40px;
+    margin-left: 100px;
+    margin-top: 50px;
+    font-size: 30px;
+}
+
+.tombol p{
+    text-align: center
+}
